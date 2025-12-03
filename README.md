@@ -18,7 +18,7 @@ The objectives was to see:
 
 **Below is the project structure:**
 
-- **“pictures”**, which is the name of your file
+- **“pictures”**, which is the name of your file  **⚠️(make sure that your pictures are in _**jpeg/jpg/png**_ formart)⚠️**
 
 - **"At home assignment.ipynb"**, which contains:
 
@@ -32,8 +32,6 @@ The objectives was to see:
 -**README.md**
 
 ⚙️ **WHAT YOU WILL NEED**
-
-⚠️(make sure that your pictures are in _**jpeg/jpg/png**_ formart)⚠️
 
 
 🟦**INSTALLATIONS REQUIRED:**
