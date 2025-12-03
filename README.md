@@ -12,7 +12,7 @@ The objectives was to see:
 
 3) Their probabilities,
 
-4)Any additional features using deep learning or not: 
+4) Any additional features using deep learning or not: 
 	In this case: Dominant colors (using Deep Learning) & Texture features (Edge Density, LBP, Sharpness).
 
 
@@ -32,6 +32,8 @@ The objectives was to see:
 -**README.md**
 
 ⚙️ **WHAT YOU WILL NEED**
+
+⚠️(make sure that your pictures are in _**jpeg/jpg/png**_ formart)⚠️
 
 
 🟦**INSTALLATIONS REQUIRED:**
