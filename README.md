@@ -29,7 +29,7 @@ The objectives was to see:
                                 —3 most dominants color from each detections 
 
                                 —Textures features
--**README.md**
+- **README.md**
 
 ⚙️ **WHAT YOU WILL NEED**
 
@@ -77,7 +77,7 @@ pip install numpy
 8.import os
 
 
-🟨 ** HOW TO MAKE THE PROJECT RUNNING**
+🟨 **HOW TO MAKE THE PROJECT RUNNING**
 
 - Place images inside the **pictures** folder
 
